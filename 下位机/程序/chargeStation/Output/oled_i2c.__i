@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\..\Libraries\CMSIS -I ..\..\User -I ..\..\Libraries\src -I ..\..\Libraries\inc
+-I.\RTE\_Template
+-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include
+-ID:\Users\Documents\寒假任务\8、毕设\2、充电桩\程序\模块\YX60918-STM32F103C8T6核心板-190513\STM32F103C8T6核心板资料\Keil.STM32F1xx_DFP.2.3.0\Device\Include
+-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
+-o ..\..\output\oled_i2c.o --omf_browse ..\..\output\oled_i2c.crf --depend ..\..\output\oled_i2c.d "..\..\User\OLED_I2C.c"

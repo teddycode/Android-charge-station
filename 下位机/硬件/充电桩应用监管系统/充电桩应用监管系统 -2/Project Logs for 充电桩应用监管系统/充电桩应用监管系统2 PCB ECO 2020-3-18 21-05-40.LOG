@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetE2_1 Pin=E2-1
+Removed Pin From Net: NetName=POWER- Pin=E2-2
+Change Component Footprint: Designator=E2 Old Footprint=C 1206_M New Footprint=CAP 2.0*5*11 - BK
+Added Pin To Net: NetName=NetE2_1 Pin=E2-A
+Added Pin To Net: NetName=POWER- Pin=E2-K

@@ -1,0 +1,4 @@
+1、Golang 开发语言
+2、Goland IDE开发工具
+3、MySQL数据库
+4、HeidiSQL数据库查看（电脑本地使用，查看服务器上数据）

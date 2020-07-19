@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetSPEAKER1_2 Pin=SPEAKER-1
+Removed Pin From Net: NetName=NetSPEAKER1_1 Pin=SPEAKER-2
+Change Component Designator: OldDesignator= NewDesignator=SP1
+Change Component Designator: OldDesignator= NewDesignator=SP2
+Change Component Designator: OldDesignator= NewDesignator=SP3
+Change Component Designator: OldDesignator= NewDesignator=SP4
+Change Component Designator: OldDesignator=CHARGE NewDesignator=CHARGE1
+Change Component Designator: OldDesignator=OLED NewDesignator=OLED1
+Change Component Designator: OldDesignator=SPEAKER NewDesignator=SPEAKER1
+Change Component Designator: OldDesignator=SYN2688 NewDesignator=SYN1
+Added Pin To Net: NetName=NetSPEAKER1_1 Pin=SPEAKER1-1
+Added Pin To Net: NetName=NetSPEAKER1_2 Pin=SPEAKER1-2
+Added Member To Class: ClassName=充电桩应用监管系统 Member=Component SP2 M3铜柱
+Added Member To Class: ClassName=充电桩应用监管系统 Member=Component SP3 M3铜柱
+Added Member To Class: ClassName=充电桩应用监管系统 Member=Component SP4 M3铜柱

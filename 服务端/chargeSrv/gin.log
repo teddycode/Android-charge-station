@@ -1,0 +1,9 @@
+[GIN] 2020/05/10 - 23:09:10 | 200 |            0s |       127.0.0.1 | GET      /swagger/index.html
+[GIN] 2020/05/10 - 23:09:10 | 200 |      1.0017ms |       127.0.0.1 | GET      /swagger/swagger-ui.css
+[GIN] 2020/05/10 - 23:09:10 | 200 |            0s |       127.0.0.1 | GET      /swagger/swagger-ui-standalone-preset.js
+[GIN] 2020/05/10 - 23:09:10 | 200 |      4.0046ms |       127.0.0.1 | GET      /swagger/swagger-ui-bundle.js
+[GIN] 2020/05/10 - 23:09:11 | 200 |      1.0008ms |       127.0.0.1 | GET      /swagger/doc.json
+[GIN] 2020/05/10 - 23:09:11 | 200 |     149.134ms |       127.0.0.1 | GET      /swagger/favicon-32x32.png
+[GIN] 2020/05/10 - 23:10:32 | 200 |            0s |             ::1 | OPTIONS  /api/v1/auth
+[GIN] 2020/05/10 - 23:10:32 | 401 |    200.1908ms |             ::1 | POST     /api/v1/auth
+[GIN] 2020/05/10 - 23:10:43 | 200 |    162.1476ms |             ::1 | POST     /api/v1/auth

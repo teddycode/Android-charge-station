@@ -1,0 +1,2 @@
+1、jdk8
+2、android studio 3.6
